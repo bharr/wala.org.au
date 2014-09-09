@@ -31,7 +31,7 @@
 
 .mission {
   @include outer-container;
-  text-align: center;
+  text-align: justify;
 
   h4 {
     @include span-columns(8);
