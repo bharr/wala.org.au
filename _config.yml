@@ -1,0 +1,39 @@
+# Travis configuration
+destination: ./_site
+username: bharr
+repo: wala.org.au
+
+# Site wide configuration
+
+title: WA Lyme Association
+description:
+logo: # 120x120 px default image used for Twitter summary card
+teaser: # 400x250 px default teaser image used in image archive grid
+locale: en_AU
+baseurl: //wala.org.au
+
+# Jekyll configuration
+
+sass:
+    sass_dir: _sass
+    style: compressed
+permalink: /:categories/:title/
+markdown: kramdown
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+
+
+# Site owner
+owner:
+  name: WA Lyme Association
+  email: contact@wala.org.au
+  twitter:
+  google:
+    ad-client: 
+    ad-slot: 
+  bio: 
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+disqus-shortname:
+
+exclude: ["Rakefile", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "vendor"]
