@@ -5,12 +5,22 @@
 #  excerpt:
 #  image:
 
+- title: About Us
+  url: /about/
+  excerpt:
+  image:
+
+- title: Health Professionals
+  url: /health-professionals/
+  excerpt:
+  image:
+
 - title: Upcoming Events
   url: /events/
   excerpt:
   image:
 
-#- title: About Us
-#  url: /about/
-#  excerpt:
-#  image:
+- title: Contact
+  url: /contact/
+  excerpt:
+  image:

@@ -30,16 +30,5 @@
 @import "pygments";
 
 .mission {
-  @include outer-container;
   text-align: justify;
-
-  h4 {
-    @include span-columns(8);
-    @include shift(2);
-  }
-
-  p {
-    @include span-columns(8);
-    @include shift(2);
-  }
 }

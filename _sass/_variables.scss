@@ -3,8 +3,8 @@
 
 // Typography variables
 
-$base-font                   	: Georgia,Times,"Times New Roman",serif;
-$heading-font                	: "Helvetica Neue","Segoe UI",Arial,sans-serif;
+$base-font                   	: "Muli", sans-serif;
+$heading-font                	: "Ubuntu", sans-serif;
 $caption-font                	: $base-font;
 $code-font                   	: monospace;
 $alt-font                    	: $heading-font;
@@ -24,7 +24,7 @@ $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $white                       	: #fff;
 $black                       	: #000;
-$link-color                  	: #222;
+$link-color                  	: #959F2A;
 $primary-color               	: #959F2A;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
