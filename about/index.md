@@ -31,3 +31,11 @@ WALA contributed significantly to the national media campaign for the Australian
 #### Research 
 
 WALA has identified much of the controversy surrounding ‘Lyme disease’ in Australia arises from a lack of adequate research into the Multi-systemic Infectious Disease Syndrome being experienced by patients.
+
+In September 2014, the Department of Health Prior published its formal [Response to the Scoping Study](http://www.health.gov.au/lyme-disease#scoping), which comments on the original consultant’s paper,  the submissions the department received in response and identifies the priority areas for research into Lyme disease.
+
+The recommended research programs focus on identifying a causative pathogen, clarification of the discrepancies between Australian and overseas test results and patient-focused research to gain a comprehensive understanding of the Lyme-like illness presenting in Australian patients, as well as the epidemiology of Lyme disease in Australia. 
+
+The Scoping Study Response also specifically notes the [Patient Strategic Action Plan](http://www.lymedisease.org.au/wp-content/uploads/2010/11/20140129LDAAPatientStrategicActionPlan.pdf) submitted by the LDAA, in which WALA members took a lead role in writing.
+
+In 2015, WALA will continue to take an active role in discussions regarding research through its own Research sub-committee and via representation on the Lyme Patient Consultative Committee (LPCG) convened by the LDAA. 
