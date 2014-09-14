@@ -4,12 +4,12 @@
     
 
     <title>WA Lyme Association</title>
-    <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.3.0</generator>
+    <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
 		<icon>//wala.org.au/apple-touch-icon-precomposed.png</icon>
     <subtitle></subtitle>
     <link href="//wala.org.au/atom.xml" rel="self"/>
     <link href="//wala.org.au/" rel="alternate" type="text/html"/>
-    <updated>2014-09-14T10:36:26+08:00</updated>
+    <updated>2014-09-14T03:24:53+00:00</updated>
     <id>//wala.org.au/</id>
     <author>
 			<name>WA Lyme Association</name>
@@ -21,7 +21,7 @@
     <entry>
         <title>Sample Article</title>
         <link href="//wala.org.au/sample-post/"/>
-        <updated>2011-03-10T00:00:00+08:00</updated>
+        <updated>2011-03-10T00:00:00+00:00</updated>
         <id>//wala.org.au/sample-post</id>
         <author>
 					<name>WA Lyme Association</name>
