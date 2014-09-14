@@ -68,5 +68,5 @@ The CMO’s progress report also recommends: “If a person who has been diagnos
 
 The WA Lyme Association invites you to broaden your knowledge and join other WA health professionals at the Lyme disease Awareness Seminars to meet with, learn from and ask questions of the two most experienced practitioners currently consulting with Lyme/MSIDS patients in WA.
 
-Bookings are essential. Please visit [wala.eventbrite.com.au](wala.eventbrite.com.au)
+Bookings are essential. Please visit [wala.eventbrite.com.au](http://wala.eventbrite.com.au).
 
