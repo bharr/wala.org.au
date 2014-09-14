@@ -12,38 +12,38 @@
   
   
   <url>
-    <loc>/contact/</loc>
-    <lastmod>2014-09-14T08:20:32+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>/health-professionals/</loc>
-    <lastmod>2014-09-14T08:20:32+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>/events/</loc>
-    <lastmod>2014-09-14T08:20:32+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
     <loc>/about/</loc>
-    <lastmod>2014-09-14T08:20:32+00:00</lastmod>
+    <lastmod>2014-09-14T08:48:12+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2014-09-14T08:20:32+00:00</lastmod>
+    <lastmod>2014-09-14T08:48:12+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/events/</loc>
+    <lastmod>2014-09-14T08:48:12+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/health-professionals/</loc>
+    <lastmod>2014-09-14T08:48:12+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2014-09-14T08:48:12+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   
   
