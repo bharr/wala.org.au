@@ -1,9 +1,15 @@
 ---
 layout: article
 title: Health professionals
-tags: [wala, wa, lyme association, health, professionals]
-image:
+tags: 
+  - wala
+  - wa
+  - lyme association
+  - health
+  - professionals
+image: 
   feature: leaves.jpg
+published: true
 ---
 
 *Do you have patients with a chronic ‘mystery illness’ that defies conventional treatment approaches? Do your patients suffer from chronic fatigue, complain of migrating pain and display a multitude of unexplained symptoms?  Have patients presented with rashes and skin complaints weeks, months or even years after bites from ticks or other blood-sucking insects? Do you consider borreliosis and other common co-infections associated with Lyme disease in your differential diagnosis? Are you relying solely on Australian public health laboratories to determine your diagnosis when a patient’s symptoms are consistent with a Lyme-like illness? Are you confident you know everything you need to know to competently diagnose and treat Lyme disease or a Lyme-like illness and co-infections?*
@@ -36,6 +42,7 @@ Source: BC – 232,670 – <http://www.cancer.org/cancer/breastcancer/detailedg
 Source: LD – 300,000 – <http://www.cdc.gov/media/releases/2013/p0819-lyme-disease.html>
 
 Lyme disease is not even a reportable illness in Australia and the only epidemiological patient data being gathered and reported upon at this stage is [a survey conducted by the LDAA](http://www.lymedisease.org.au/wp-content/uploads/2012/11/ldaa-lyme-disease-_australian-patient-experience-in-2012-22nov12.pdf), the national patient organisation. 
+
 What we don’t know about Lyme/MSIDS in Australia could fuel a thousand research studies.
 
 We DON’T yet know:
@@ -69,4 +76,3 @@ The CMO’s progress report also recommends: “If a person who has been diagnos
 The WA Lyme Association invites you to broaden your knowledge and join other WA health professionals at the Lyme disease Awareness Seminars to meet with, learn from and ask questions of the two most experienced practitioners currently consulting with Lyme/MSIDS patients in WA.
 
 Bookings are essential. Please visit [wala.eventbrite.com.au](http://wala.eventbrite.com.au).
-
