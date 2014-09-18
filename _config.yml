@@ -20,9 +20,21 @@ sass:
 permalink: /:categories/:title/
 markdown: kramdown
 highlighter: pygments
-gems:
-  - jekyll-sitemap
+#gems:
+#  - jekyll-sitemap
 
+# Plugin configuration
+sitemap:
+  file: "/sitemap.xml"
+  exclude:
+      - "/atom.xml"
+      - "/feed.xml"
+      - "/feed/index.xml"
+      - "/css/main.scss"
+  include_posts:
+      - "/news/index.html"
+  change_frequency_name: "change_frequency"
+  priority_name: "priority"
 
 # Site owner
 owner:
