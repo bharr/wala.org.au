@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>/sample-post/</loc>
-        <lastmod>2014-09-18T03:29:35+00:00</lastmod>
+        <loc>http://wala.org.au/sample-post/</loc>
+        <lastmod>2014-09-18T03:39:36+00:00</lastmod>
     </url>
     <url>
-        <loc>/health-professionals/</loc>
-        <lastmod>2014-09-18T03:29:35+00:00</lastmod>
+        <loc>http://wala.org.au/contact/</loc>
+        <lastmod>2014-09-18T03:39:36+00:00</lastmod>
     </url>
     <url>
-        <loc>/</loc>
-        <lastmod>2014-09-18T03:29:35+00:00</lastmod>
+        <loc>http://wala.org.au/health-professionals/</loc>
+        <lastmod>2014-09-18T03:39:36+00:00</lastmod>
     </url>
     <url>
-        <loc>/about/</loc>
-        <lastmod>2014-09-18T03:29:35+00:00</lastmod>
+        <loc>http://wala.org.au/events/</loc>
+        <lastmod>2014-09-18T03:39:36+00:00</lastmod>
     </url>
     <url>
-        <loc>/events/</loc>
-        <lastmod>2014-09-18T03:29:35+00:00</lastmod>
+        <loc>http://wala.org.au/about/</loc>
+        <lastmod>2014-09-18T03:39:36+00:00</lastmod>
     </url>
     <url>
-        <loc>/contact/</loc>
-        <lastmod>2014-09-18T03:29:35+00:00</lastmod>
+        <loc>http://wala.org.au/</loc>
+        <lastmod>2014-09-18T03:39:36+00:00</lastmod>
     </url>
 </urlset>
